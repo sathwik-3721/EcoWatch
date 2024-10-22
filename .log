@@ -1,0 +1,104 @@
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:28:04.269Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user ''@'localhost' (using password: NO)","sqlMessage":"Access denied for user ''@'localhost' (using password: NO)","sqlState":"28000","stack":"Error: Access denied for user ''@'localhost' (using password: NO)\n    at Packet.asError (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\packets\\packet.js:738:17)\n    at ClientHandshake.execute (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\commands\\command.js:29:26)\n    at PoolConnection.handlePacket (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:481:34)\n    at PacketParser.onPacket (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:97:12)\n    at PacketParser.executeStart (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\packet_parser.js:75:16)\n    at Socket.<anonymous> (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:104:25)\n    at Socket.emit (node:events:514:28)\n    at addChunk (node:internal/streams/readable:324:12)\n    at readableAddChunk (node:internal/streams/readable:297:9)\n    at Readable.push (node:internal/streams/readable:234:10)","timestamp":"2024-10-21T19:28:04.334Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:28:06.540Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user ''@'localhost' (using password: NO)","sqlMessage":"Access denied for user ''@'localhost' (using password: NO)","sqlState":"28000","stack":"Error: Access denied for user ''@'localhost' (using password: NO)\n    at Packet.asError (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\packets\\packet.js:738:17)\n    at ClientHandshake.execute (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\commands\\command.js:29:26)\n    at PoolConnection.handlePacket (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:481:34)\n    at PacketParser.onPacket (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:97:12)\n    at PacketParser.executeStart (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\packet_parser.js:75:16)\n    at Socket.<anonymous> (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:104:25)\n    at Socket.emit (node:events:514:28)\n    at addChunk (node:internal/streams/readable:324:12)\n    at readableAddChunk (node:internal/streams/readable:297:9)\n    at Readable.push (node:internal/streams/readable:234:10)","timestamp":"2024-10-21T19:28:06.579Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:28:25.892Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user ''@'localhost' (using password: NO)","sqlMessage":"Access denied for user ''@'localhost' (using password: NO)","sqlState":"28000","stack":"Error: Access denied for user ''@'localhost' (using password: NO)\n    at Packet.asError (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\packets\\packet.js:738:17)\n    at ClientHandshake.execute (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\commands\\command.js:29:26)\n    at PoolConnection.handlePacket (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:481:34)\n    at PacketParser.onPacket (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:97:12)\n    at PacketParser.executeStart (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\packet_parser.js:75:16)\n    at Socket.<anonymous> (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:104:25)\n    at Socket.emit (node:events:514:28)\n    at addChunk (node:internal/streams/readable:324:12)\n    at readableAddChunk (node:internal/streams/readable:297:9)\n    at Readable.push (node:internal/streams/readable:234:10)","timestamp":"2024-10-21T19:28:25.923Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:30:38.834Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user ''@'localhost' (using password: NO)","sqlMessage":"Access denied for user ''@'localhost' (using password: NO)","sqlState":"28000","stack":"Error: Access denied for user ''@'localhost' (using password: NO)\n    at Packet.asError (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\packets\\packet.js:738:17)\n    at ClientHandshake.execute (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\commands\\command.js:29:26)\n    at PoolConnection.handlePacket (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:481:34)\n    at PacketParser.onPacket (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:97:12)\n    at PacketParser.executeStart (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\packet_parser.js:75:16)\n    at Socket.<anonymous> (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:104:25)\n    at Socket.emit (node:events:514:28)\n    at addChunk (node:internal/streams/readable:324:12)\n    at readableAddChunk (node:internal/streams/readable:297:9)\n    at Readable.push (node:internal/streams/readable:234:10)","timestamp":"2024-10-21T19:30:38.885Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:30:41.804Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user ''@'localhost' (using password: NO)","sqlMessage":"Access denied for user ''@'localhost' (using password: NO)","sqlState":"28000","stack":"Error: Access denied for user ''@'localhost' (using password: NO)\n    at Packet.asError (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\packets\\packet.js:738:17)\n    at ClientHandshake.execute (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\commands\\command.js:29:26)\n    at PoolConnection.handlePacket (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:481:34)\n    at PacketParser.onPacket (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:97:12)\n    at PacketParser.executeStart (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\packet_parser.js:75:16)\n    at Socket.<anonymous> (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:104:25)\n    at Socket.emit (node:events:514:28)\n    at addChunk (node:internal/streams/readable:324:12)\n    at readableAddChunk (node:internal/streams/readable:297:9)\n    at Readable.push (node:internal/streams/readable:234:10)","timestamp":"2024-10-21T19:30:41.828Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:30:48.406Z"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"info","message":"Database Connection Failed! Bad Config:  Access denied for user 'root'@'localhost' (using password: NO)","sqlMessage":"Access denied for user 'root'@'localhost' (using password: NO)","sqlState":"28000","stack":"Error: Access denied for user 'root'@'localhost' (using password: NO)\n    at Packet.asError (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\packets\\packet.js:738:17)\n    at ClientHandshake.execute (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\commands\\command.js:29:26)\n    at PoolConnection.handlePacket (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:481:34)\n    at PacketParser.onPacket (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:97:12)\n    at PacketParser.executeStart (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\packet_parser.js:75:16)\n    at Socket.<anonymous> (D:\\EcoWatch\\ecowatch-backend\\node_modules\\mysql2\\lib\\connection.js:104:25)\n    at Socket.emit (node:events:514:28)\n    at addChunk (node:internal/streams/readable:324:12)\n    at readableAddChunk (node:internal/streams/readable:297:9)\n    at Readable.push (node:internal/streams/readable:234:10)","timestamp":"2024-10-21T19:30:48.430Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:30:54.704Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:30:54.726Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:30:59.222Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:30:59.246Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:31:00.347Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:31:00.380Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:31:10.868Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:31:10.902Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:33:27.451Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:33:27.488Z"}
+{"body":{"address":"123 Main St, New York, NY 10001, USA","dob":"1990-05-15","email":"johndoe@example.com","firstName":"John","lastName":"Doe","mobileNumber":"+1234567890","password":"SecureP@ssw0rd!"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":116,"status":"failed","timestamp":"2024-10-21T19:33:29.993Z","userAgent":"PostmanRuntime/7.42.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:34:06.156Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:34:06.183Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:34:09.480Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:34:09.503Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:34:10.522Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:34:10.545Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:34:16.098Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:34:16.121Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:34:17.727Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:34:17.751Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:34:23.113Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:34:23.140Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:34:28.328Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:34:28.349Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:34:29.736Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:34:29.761Z"}
+{"body":{"address":"123 Main St, New York, NY 10001, USA","dob":"1990-05-15","email":"johndoe@example.com","firstName":"John","lastName":"Doe","mobileNumber":"+1234567890","password":"SecureP@ssw0rd!"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":78,"status":"failed","timestamp":"2024-10-21T19:34:34.366Z","userAgent":"PostmanRuntime/7.42.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:34:50.033Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:34:50.056Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:34:54.257Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:34:54.279Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:34:58.571Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:34:58.594Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:35:03.123Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:35:03.147Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:35:04.642Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:35:04.669Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:35:08.024Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:35:08.047Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:35:15.020Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:35:15.042Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:35:18.487Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:35:18.510Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:35:21.780Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:35:22.292Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:35:22.315Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:35:28.604Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:35:28.628Z"}
+{"body":{"address":"123 Main St, New York, NY 10001, USA","dob":"1990-05-15","email":"johndoe@example.com","firstName":"John","lastName":"Doe","mobileNumber":"+1234567890","password":"SecureP@ssw0rd!"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":57,"status":"failed","timestamp":"2024-10-21T19:35:33.647Z","userAgent":"PostmanRuntime/7.42.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:36:08.625Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:36:08.648Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:36:10.512Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:36:10.535Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:36:14.857Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:36:14.881Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:36:17.526Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:36:17.549Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:36:20.317Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:36:20.339Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:36:22.409Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:36:22.434Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:36:23.262Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:36:23.285Z"}
+{"body":{"address":"123 Main St, New York, NY 10001, USA","dob":"1990-05-15","email":"johndoe@example.com","firstName":"John","lastName":"Doe","mobileNumber":"+1234567890","password":"SecureP@ssw0rd!"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":74,"status":"failed","timestamp":"2024-10-21T19:36:25.293Z","userAgent":"PostmanRuntime/7.42.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:36:37.839Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:36:37.863Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:36:39.503Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:36:39.527Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-21T19:36:43.089Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-21T19:36:43.112Z"}
+{"body":{"address":"123 Main St, New York, NY 10001, USA","dob":"1990-05-15","email":"johndoe@example.com","firstName":"John","lastName":"Doe","mobileNumber":"+1234567890","password":"SecureP@ssw0rd!"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":64,"status":"failed","timestamp":"2024-10-21T19:36:44.965Z","userAgent":"PostmanRuntime/7.42.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T08:43:53.512Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T08:43:53.613Z"}
+{"body":{"address":"123 Main St, New York, NY 10001, USA","dob":"1990-05-15","email":"janedoe@example.com","firstName":"Jane","lastName":"Doe","mobileNumber":"+1234567890","password":"SecureP@ssw0rd!"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":141,"status":"success","timestamp":"2024-10-22T08:44:04.175Z","userAgent":"PostmanRuntime/7.42.0"}
+{"body":{"address":"123 Main St, New York, NY 10001, USA","dob":"1990-05-15","email":"janedoe@example.com","firstName":"Jane","lastName":"Doe","mobileNumber":"+1234567890","password":"SecureP@ssw0rd!"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":34,"status":"failed","timestamp":"2024-10-22T08:44:08.372Z","userAgent":"PostmanRuntime/7.42.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T08:46:52.650Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T08:46:52.682Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T08:46:54.199Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T08:46:54.221Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T08:47:09.826Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T08:47:09.849Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T08:47:18.483Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T08:47:18.507Z"}
+{"body":{"address":"123 Main St, New York, NY 10001, USA","dob":"1990-05-15","email":"janedoe@example.com","firstName":"Jane","lastName":"Doe","mobileNumber":"+1234567890","password":"SecureP@ssw0rd!"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":82,"status":"failed","timestamp":"2024-10-22T08:47:25.639Z","userAgent":"PostmanRuntime/7.42.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T08:48:06.202Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T08:48:06.228Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T08:48:14.348Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T08:48:14.853Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T08:48:14.876Z"}
+{"body":{"address":"123 Main St, New York, NY 10001, USA","dob":"1990-05-15","email":"janedoe@example.com","firstName":"Jane","lastName":"Doe","mobileNumber":"+1234567890","password":"SecureP@ssw0rd!"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":60,"status":"failed","timestamp":"2024-10-22T08:48:18.079Z","userAgent":"PostmanRuntime/7.42.0"}
+{"body":{"email":"janedoe@example.com","password":"SecureP@ssw0rd!"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/login","query":{},"responseTime":50,"status":"success","timestamp":"2024-10-22T08:50:55.978Z","userAgent":"PostmanRuntime/7.42.0"}

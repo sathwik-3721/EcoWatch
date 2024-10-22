@@ -20,7 +20,7 @@ const requestLoggerMiddleware = (req, res, next) => {
     const endTime = Date.now();
     const responseTime = endTime - startTime;
     const status = res.statusCode >= 400 ? 'failed' : 'success';
-    _info({
+    logger.info({
       message: 'HTTP Request',
       method: req.method,
       path: req.path,
