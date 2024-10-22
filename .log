@@ -102,3 +102,394 @@
 {"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T08:48:14.876Z"}
 {"body":{"address":"123 Main St, New York, NY 10001, USA","dob":"1990-05-15","email":"janedoe@example.com","firstName":"Jane","lastName":"Doe","mobileNumber":"+1234567890","password":"SecureP@ssw0rd!"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":60,"status":"failed","timestamp":"2024-10-22T08:48:18.079Z","userAgent":"PostmanRuntime/7.42.0"}
 {"body":{"email":"janedoe@example.com","password":"SecureP@ssw0rd!"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/login","query":{},"responseTime":50,"status":"success","timestamp":"2024-10-22T08:50:55.978Z","userAgent":"PostmanRuntime/7.42.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T12:00:27.115Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T12:00:27.226Z"}
+{"body":{"email":"sathwik604@gmail.com","firstName":"Sathwik","lastName":"Ramisetty","password":"Sathwik@3721"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":83,"status":"failed","timestamp":"2024-10-22T12:01:23.992Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"address":"Tenali","dob":"2003-09-27","email":"sathwik@example.com","firstName":"Sathwik ","lastName":"Ramisetty","mobileNumber":"917032094398","password":"Sathwik@3721"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":5,"status":"failed","timestamp":"2024-10-22T12:35:05.171Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T13:05:01.735Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T13:05:01.858Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T13:05:04.351Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T13:05:04.374Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T13:05:06.511Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T13:05:06.533Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T13:05:08.294Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T13:05:08.318Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T13:05:09.960Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T13:05:09.983Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T13:05:10.995Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T13:05:11.017Z"}
+{"body":{"address":"  knowub dqj","dob":"2024-10-02","email":"sathwik@example.com","firstName":"Sathwik","lastName":"Ramisetty","mobileNumber":"17452188522","password":"Sathwik@3721"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":34,"status":"failed","timestamp":"2024-10-22T13:05:49.375Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T13:05:56.968Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T13:05:56.991Z"}
+{"body":{"address":"  knowub dqj","dob":"2024-10-02","email":"sathwik@example.com","firstName":"Sathwik","lastName":"Ramisetty","mobileNumber":"17452188522","password":"Sathwik@3721"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":43,"status":"success","timestamp":"2024-10-22T13:06:04.998Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"address":"Indira","dob":"2024-10-17","email":"dhanush@example.com","firstName":"Dhanush","lastName":"Punati","mobileNumber":"17559415148","password":"Dhanush@123"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":5,"status":"success","timestamp":"2024-10-22T13:27:40.168Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T13:28:34.306Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T13:28:34.332Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T13:28:37.097Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T13:28:37.119Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T13:28:40.351Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T13:28:40.375Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T13:28:42.797Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T13:28:42.821Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T13:28:44.501Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T13:28:44.526Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T13:28:45.837Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T13:28:45.876Z"}
+{"body":{"address":"bhdnsincw","dob":"2024-09-30","email":"bdiwb@nnfwimie.com","firstName":" nndub","lastName":"njnuowbnf","mobileNumber":"18511715118","password":"Sathwik@3721"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":22,"status":"success","timestamp":"2024-10-22T13:29:23.746Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:11:15.734Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:11:15.758Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:11:17.361Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:11:17.383Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:11:21.043Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:11:21.068Z"}
+{"body":{"address":"g43y5ryh","dob":"2024-10-06","email":"nbiudebi@dbwbd.com","firstName":"Shbuib","lastName":"bnibiu","mobileNumber":"318491151557","password":"Demo@1234"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":34,"status":"success","timestamp":"2024-10-22T14:12:26.976Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:13:08.121Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:13:08.145Z"}
+{"body":{"address":"rgegthth4","dob":"2024-10-07","email":"bheby@bbiebu.vom","firstName":" nudsin vuw","lastName":"uid fub","mobileNumber":"11561651554","password":"Demo@1234"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":68,"status":"success","timestamp":"2024-10-22T14:13:53.164Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:14:18.241Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:14:18.264Z"}
+{"body":{"address":"Ave 1, NYC, NY","dob":"2003-09-27","email":"dhanush@example.com","firstName":"Dhanush","lastName":"Punati","mobileNumber":"17524694126","password":"Demo@123"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":95,"status":"failed","timestamp":"2024-10-22T14:15:42.980Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:16:16.197Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:16:16.219Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:16:20.088Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:16:20.112Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:16:22.436Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:16:22.459Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:16:24.843Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:16:24.864Z"}
+{"body":{"address":"Ave 1, NYC, NY","dob":"2003-09-27","email":"dhanush@example.com","firstName":"Dhanush","lastName":"Punati","mobileNumber":"17524694126","password":"Demo@123"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":39,"status":"failed","timestamp":"2024-10-22T14:16:26.539Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"address":"Ave 1, NYC, NY","dob":"2003-09-27","email":"dhanush1@example.com","firstName":"Dhanush","lastName":"Punati","mobileNumber":"17524694126","password":"Demo@123"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/register","query":{},"responseTime":71,"status":"success","timestamp":"2024-10-22T14:16:51.079Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:40:10.714Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:40:10.747Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:55:08.012Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:55:08.036Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:55:14.838Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:55:14.861Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:55:27.849Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:55:27.872Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:55:38.758Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:55:38.784Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:55:49.865Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:55:49.887Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:55:51.055Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:55:51.079Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:55:57.550Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:55:57.584Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:55:59.860Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:55:59.890Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:56:03.323Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:56:03.355Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:56:14.212Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:56:14.235Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:57:49.678Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:57:49.700Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:57:52.649Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:57:52.671Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:57:54.856Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:57:54.879Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:57:57.894Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:57:57.916Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:58:06.515Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:58:06.539Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:58:08.991Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:58:09.016Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:58:41.033Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:58:41.056Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:58:44.596Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:58:44.619Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:58:53.309Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:58:53.331Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:59:02.934Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:59:02.957Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:59:04.450Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:59:04.472Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:59:11.268Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:59:11.290Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:59:15.495Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:59:15.517Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:59:18.538Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:59:18.562Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:59:25.480Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:59:25.504Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:59:30.431Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:59:30.453Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:59:36.965Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:59:36.988Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:59:38.206Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:59:38.227Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:59:39.354Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:59:39.377Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:59:41.670Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:59:41.693Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:59:46.613Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:59:46.635Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:59:56.756Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:59:56.777Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T14:59:59.160Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T14:59:59.183Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:00:10.409Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:00:10.431Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:00:14.714Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:00:14.736Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:00:23.190Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:00:23.214Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:00:25.318Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:00:25.341Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:00:34.198Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:00:34.221Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:00:47.586Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:00:47.608Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:00:49.682Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:00:49.704Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:01:05.635Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:01:05.660Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:01:27.731Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:01:27.754Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:01:29.167Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:01:29.192Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:01:39.596Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:01:39.618Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:01:51.159Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:01:51.182Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:02:05.048Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:02:05.073Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:02:21.699Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:02:21.721Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:02:29.035Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:02:29.057Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:02:39.863Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:02:39.885Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:02:42.756Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:02:42.778Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:02:43.736Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:02:43.758Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:02:47.059Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:02:47.082Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:02:51.849Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:02:51.872Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:02:55.111Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:02:55.133Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:03:00.351Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:03:00.373Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:03:02.897Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:03:02.920Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:03:06.527Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:03:06.552Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:03:10.700Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:03:10.723Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:03:12.736Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:03:12.761Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:03:17.068Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:03:17.090Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:03:23.732Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:03:23.754Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:03:32.315Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:03:32.337Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:03:34.947Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:03:34.969Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:03:41.564Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:03:41.587Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:03:44.394Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:03:44.416Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:03:45.589Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:03:45.611Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:03:46.738Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:03:46.763Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:03:55.990Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:03:56.014Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:04:07.898Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:04:07.923Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:04:10.912Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:04:10.934Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:04:22.678Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:04:22.700Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:04:26.150Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:04:26.174Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:04:30.812Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:04:30.835Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:04:33.651Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:04:33.674Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:04:57.462Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:04:57.486Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:04:59.117Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:04:59.139Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:05:07.333Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:05:07.356Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:05:08.711Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:05:08.737Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:05:10.203Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:05:10.227Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:05:18.234Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:05:18.257Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:05:34.799Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:05:34.824Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:05:40.647Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:05:40.669Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:05:45.107Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:05:45.131Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:05:48.198Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:05:48.222Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:05:51.403Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:05:51.431Z"}
+{"body":{"email":"dhanush@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{},"responseTime":34,"status":"success","timestamp":"2024-10-22T15:06:41.941Z","userAgent":"PostmanRuntime/7.42.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:07:23.601Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:07:23.624Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:07:26.781Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:07:26.804Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:07:28.763Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:07:28.786Z"}
+{"body":{"email":"dhanush@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{},"responseTime":27,"status":"failed","timestamp":"2024-10-22T15:07:33.135Z","userAgent":"PostmanRuntime/7.42.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:07:54.634Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:07:54.660Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:07:55.960Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:07:55.981Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:07:58.665Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:07:58.689Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:08:00.292Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:08:00.315Z"}
+{"body":{"email":"dhanush@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{},"responseTime":37,"status":"failed","timestamp":"2024-10-22T15:08:07.204Z","userAgent":"PostmanRuntime/7.42.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:08:21.252Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:08:21.277Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:08:27.013Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:08:27.035Z"}
+{"body":{"email":"dhanush@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{},"responseTime":22,"status":"failed","timestamp":"2024-10-22T15:08:28.610Z","userAgent":"PostmanRuntime/7.42.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:09:12.813Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:09:12.836Z"}
+{"body":{"email":"dhanush@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{},"responseTime":24,"status":"failed","timestamp":"2024-10-22T15:09:18.138Z","userAgent":"PostmanRuntime/7.42.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:09:45.045Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:09:45.067Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:09:48.408Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:09:48.443Z"}
+{"body":{"email":"dhanush@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{},"responseTime":25,"status":"success","timestamp":"2024-10-22T15:09:50.329Z","userAgent":"PostmanRuntime/7.42.0"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:10:32.402Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:10:32.426Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T15:10:33.853Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T15:10:33.875Z"}
+{"body":{"email":"dhanush@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{},"responseTime":22,"status":"success","timestamp":"2024-10-22T15:10:35.768Z","userAgent":"PostmanRuntime/7.42.0"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":7,"status":"failed","timestamp":"2024-10-22T17:07:34.363Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":4,"status":"failed","timestamp":"2024-10-22T17:07:34.364Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":2,"status":"failed","timestamp":"2024-10-22T17:08:29.510Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":2,"status":"failed","timestamp":"2024-10-22T17:08:29.511Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":2,"status":"failed","timestamp":"2024-10-22T17:08:31.527Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":1,"status":"failed","timestamp":"2024-10-22T17:08:32.325Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":3,"status":"failed","timestamp":"2024-10-22T17:08:58.337Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":3,"status":"failed","timestamp":"2024-10-22T17:08:58.338Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{},"responseTime":7,"status":"success","timestamp":"2024-10-22T17:09:14.615Z","userAgent":"PostmanRuntime/7.42.0"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":2,"status":"failed","timestamp":"2024-10-22T17:10:43.660Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":1,"status":"failed","timestamp":"2024-10-22T17:10:43.660Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":1,"status":"failed","timestamp":"2024-10-22T17:11:10.508Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":1,"status":"failed","timestamp":"2024-10-22T17:11:27.936Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":1,"status":"failed","timestamp":"2024-10-22T17:11:27.944Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":1,"status":"failed","timestamp":"2024-10-22T17:12:05.511Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":2,"status":"failed","timestamp":"2024-10-22T17:12:35.995Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":0,"status":"failed","timestamp":"2024-10-22T17:12:35.997Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":1,"status":"failed","timestamp":"2024-10-22T17:13:52.500Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":0,"status":"failed","timestamp":"2024-10-22T17:13:55.490Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":0,"status":"failed","timestamp":"2024-10-22T17:13:56.494Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":1,"status":"failed","timestamp":"2024-10-22T17:13:57.518Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{},"responseTime":5,"status":"success","timestamp":"2024-10-22T17:14:29.673Z","userAgent":"PostmanRuntime/7.42.0"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{},"responseTime":2,"status":"success","timestamp":"2024-10-22T17:15:32.681Z","userAgent":"PostmanRuntime/7.42.0"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":2,"status":"failed","timestamp":"2024-10-22T17:15:47.303Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/v1/user/getUserName","query":{},"responseTime":2,"status":"failed","timestamp":"2024-10-22T17:15:47.304Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{},"responseTime":3,"status":"failed","timestamp":"2024-10-22T17:19:57.505Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{},"responseTime":1,"status":"failed","timestamp":"2024-10-22T17:20:05.468Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:21:49.988Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:21:50.011Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:21:51.922Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:21:51.945Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:22:09.981Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:22:10.002Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:22:13.562Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:22:13.585Z"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/v1/user/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":6,"status":"failed","timestamp":"2024-10-22T17:22:28.515Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/v1/user/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":3,"status":"failed","timestamp":"2024-10-22T17:22:29.519Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/v1/user/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"failed","timestamp":"2024-10-22T17:22:56.464Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/v1/user/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":1,"status":"failed","timestamp":"2024-10-22T17:22:56.471Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:23:21.025Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:23:21.048Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:23:26.314Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:23:26.336Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:23:38.056Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:23:38.082Z"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":19,"status":"success","timestamp":"2024-10-22T17:23:58.724Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":4,"status":"success","timestamp":"2024-10-22T17:23:58.736Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":3,"status":"success","timestamp":"2024-10-22T17:24:34.493Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"success","timestamp":"2024-10-22T17:24:36.500Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":3,"status":"success","timestamp":"2024-10-22T17:24:41.506Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":4,"status":"success","timestamp":"2024-10-22T17:24:45.512Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":6,"status":"success","timestamp":"2024-10-22T17:25:06.762Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":3,"status":"success","timestamp":"2024-10-22T17:25:06.770Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"success","timestamp":"2024-10-22T17:25:50.503Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"success","timestamp":"2024-10-22T17:25:52.500Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":3,"status":"success","timestamp":"2024-10-22T17:26:06.815Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":4,"status":"success","timestamp":"2024-10-22T17:26:06.827Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"success","timestamp":"2024-10-22T17:26:54.503Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"success","timestamp":"2024-10-22T17:27:48.499Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"success","timestamp":"2024-10-22T17:27:48.505Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":3,"status":"success","timestamp":"2024-10-22T17:28:06.655Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"success","timestamp":"2024-10-22T17:28:06.661Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com","password":"Demo@123"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/login","query":{},"responseTime":41,"status":"success","timestamp":"2024-10-22T17:32:00.423Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"success","timestamp":"2024-10-22T17:32:00.472Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"success","timestamp":"2024-10-22T17:32:00.477Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com","password":"nudb vouou"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/login","query":{},"responseTime":30,"status":"failed","timestamp":"2024-10-22T17:32:11.697Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com","password":"nudb vouou"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/login","query":{},"responseTime":32,"status":"failed","timestamp":"2024-10-22T17:32:13.919Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com","password":"nineorglnroign"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/login","query":{},"responseTime":30,"status":"failed","timestamp":"2024-10-22T17:42:11.691Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com","password":"nduinfownbfio"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/login","query":{},"responseTime":31,"status":"failed","timestamp":"2024-10-22T17:46:06.946Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{"email":"dhanush1@example.com","password":"Demo@123"},"ip":"::1","level":"info","message":"HTTP Request","method":"POST","path":"/login","query":{},"responseTime":30,"status":"success","timestamp":"2024-10-22T17:46:12.464Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"success","timestamp":"2024-10-22T17:46:12.489Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":1,"status":"success","timestamp":"2024-10-22T17:46:12.495Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"success","timestamp":"2024-10-22T17:48:26.513Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":1,"status":"success","timestamp":"2024-10-22T17:48:26.518Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"success","timestamp":"2024-10-22T17:48:27.516Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":1,"status":"success","timestamp":"2024-10-22T17:48:40.497Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/getUserName","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"success","timestamp":"2024-10-22T17:48:40.503Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/v1/user/get-username","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"failed","timestamp":"2024-10-22T17:55:00.497Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/v1/user/get-username","query":{"email":"dhanush1@example.com"},"responseTime":2,"status":"failed","timestamp":"2024-10-22T17:55:02.509Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:56:03.134Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:56:03.157Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:56:11.426Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:56:11.448Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:56:39.010Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:56:39.032Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:56:50.924Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:56:50.946Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:57:08.361Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:57:08.384Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:57:11.808Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:57:11.830Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:57:19.060Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:57:19.083Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:57:32.734Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:57:32.759Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:57:40.020Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:57:40.042Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:57:43.035Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:57:43.059Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:57:48.009Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:57:48.034Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:58:38.596Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:58:38.619Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:58:40.982Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:58:41.004Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:58:42.213Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:58:42.238Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:58:43.228Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:58:43.249Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T17:59:55.586Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T17:59:55.611Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T18:00:05.928Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T18:00:05.950Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T18:00:07.304Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T18:00:07.328Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T18:00:25.905Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T18:00:25.930Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T18:00:33.262Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T18:00:33.293Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T18:00:35.569Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T18:00:35.592Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T18:00:52.702Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T18:00:52.726Z"}
+{"level":"info","message":"Application Environment : development","timestamp":"2024-10-22T18:00:53.771Z"}
+{"level":"info","message":"Database connection successful.","timestamp":"2024-10-22T18:00:53.794Z"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/get-username","query":{"email":"dhanush1@example.com"},"responseTime":16,"status":"success","timestamp":"2024-10-22T18:04:10.515Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+{"body":{},"ip":"::1","level":"info","message":"HTTP Request","method":"GET","path":"/get-username","query":{"email":"dhanush1@example.com"},"responseTime":3,"status":"success","timestamp":"2024-10-22T18:04:10.525Z","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}

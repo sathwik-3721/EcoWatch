@@ -7,8 +7,9 @@ class User {
         try {
             const pool = await poolPromise;
             const userExists = await this.validateUser(email);
+            console.log("userext", userExists);
 
-            if (!userExists) {
+            if (userExists) {
                 const saltRounds = 9;
                 const hashedPassword = await bcrypt.hash(password, saltRounds);
 
@@ -46,6 +47,7 @@ class User {
     static async validateUser(email) {
         try {
             const result = await this.getUserByEmail(email);
+            console.log('res', result.length === 0);
             return result.length === 0;
         } catch (err) {
             console.error("Error validating user:", err);
@@ -80,6 +82,52 @@ class User {
             return { success: false, message: "Login failed, please try again" };
         }
     }
+
+    // Get user name from email
+    static async getUserName(email) {
+        try {
+            const pool = await poolPromise;
+            const sql = 'SELECT first_name, last_name FROM Users WHERE email = ?';
+            const [result] = await pool.query(sql, [email]);
+            if(result.length === 0) {
+                return { success: false, message: 'User does not exist'};
+            } else {
+                return { success: true, result: result };
+            }
+        } catch(err) {
+            console.error("Error while getting username");
+            return { success: false, message: "Try after sometime" };
+        }
+    }
+
+    // Forget password implementation
+static async updatePassword(email, newPassword) {
+    try {
+        const pool = await poolPromise;
+
+        const userExists = await this.validateUser(email);
+        if (userExists) {
+            return { success: false, message: "User does not exist" };
+        }
+
+        const saltRounds = 9;
+        const hashedPassword = await bcrypt.hash(newPassword, saltRounds);
+
+        const sql = `UPDATE Users SET password_hashed = ? WHERE email = ?`;
+        const [result] = await pool.query(sql, [hashedPassword, email]);
+
+        if (result.affectedRows === 0) {
+            return { success: false, message: "Password update failed" };
+        }
+
+        console.log("Password updated successfully");
+        return { success: true, message: "Password updated successfully" };
+    } catch (err) {
+        console.error("Error while updating password:", err);
+        return { success: false, message: "Try after sometime" };
+    }
+}
+
 }
 
 export default User;
